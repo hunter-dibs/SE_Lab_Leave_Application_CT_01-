@@ -1,2 +1,3 @@
 var x = 1 + 2;
-console log (x, "Here is the result");
+console log (x, "Here ");
+console.log("Hello World");
